@@ -1,0 +1,2 @@
+# djangosubmodule
+django submodule
